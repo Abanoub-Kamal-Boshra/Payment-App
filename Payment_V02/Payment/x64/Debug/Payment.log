@@ -1,0 +1,4 @@
+﻿  server.c
+D:\Embedded Systems\egFWD Professional\work space\Payment_V02\Payment\server.c(33,46): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+D:\Embedded Systems\egFWD Professional\work space\Payment_V02\Payment\server.c(33,36): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+  Payment.vcxproj -> D:\Embedded Systems\egFWD Professional\work space\Payment_V02\x64\Debug\Payment.exe
